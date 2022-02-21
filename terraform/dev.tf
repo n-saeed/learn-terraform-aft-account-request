@@ -5,7 +5,7 @@ module "dev" {
     AccountEmail              = "aft.controltower+dev@gmail.com"
     AccountName               = "dev-aft"
     ManagedOrganizationalUnit = "Just Dev"
-    SSOUserEmail              = "aft.controltower+aft@gmail.com"
+    SSOUserEmail              = "aft.controltower+dev@gmail.com"
     SSOUserFirstName          = "Dev"
     SSOUserLastName           = "AFT"
   }
