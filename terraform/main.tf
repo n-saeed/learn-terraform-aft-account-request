@@ -23,5 +23,5 @@ module "dev" {
     group = "non-prod"
   }
 
-  account_customizations_name = "dev"
+  account_customizations_name = "devops"
 }
