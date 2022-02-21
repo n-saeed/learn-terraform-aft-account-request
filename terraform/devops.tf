@@ -3,8 +3,8 @@ module "dev" {
 
   control_tower_parameters = {
     AccountEmail              = "aft.controltower+dev@gmail.com"
-    AccountName               = "Learn AFT"
-    ManagedOrganizationalUnit = "Dev Ops"
+    AccountName               = "Ded"
+    ManagedOrganizationalUnit = "Learn AFT"
     SSOUserEmail              = "aft.controltower+aft@gmail.com"
     SSOUserFirstName          = "Dev"
     SSOUserLastName           = "Ops"
